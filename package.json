@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-helper",
+  "version": "1.0.0",
+  "description": "***     Fintelics Node.js Helper Scripts and Boilerplate ***",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fintelics/nodejs-helper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fintelics/nodejs-helper/issues"
+  },
+  "homepage": "https://github.com/fintelics/nodejs-helper#readme"
+}
